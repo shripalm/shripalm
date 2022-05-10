@@ -30,7 +30,7 @@
   </a>
    <br/>
   <a href="https://github.com/shripalm/"> 
-    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=shripalm&theme=dark"/>
+    <img width=500 src="https://github-readme-streak-stats.herokuapp.com?user=shripalm&theme=dark"/>
   </a>
    <br/>
   <a href="https://github.com/shripalm/"> 
