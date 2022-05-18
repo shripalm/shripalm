@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Shripal Mehta
 - 👨‍💻 Associate SDE at Merkle Sokrati
-- 👀 I’m interested in Web Technology and Sutomation tools
+- 👀 I’m interested in Web Technology and Automation tools
 - 🌱 I’m currently working with MERN stack and PHP
 - 🛠 Currently working on Browser Extensions, Automation tools, and low level CMS
 - 🙌 Contact Me on my social media for any questions about my project
