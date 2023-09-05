@@ -1,7 +1,8 @@
 ## About Me:
 
 - 👋 Hi, I’m Shripal Mehta
-- 👨‍💻 Associate SDE at Merkle Sokrati
+- 👨‍💻 SDE II at Merkle Sokrati
+- 💻 Google Cloud Certified Professional Cloud Developer
 - 👀 I’m interested in Web Technology and Automation tools
 - 🌱 I’m currently working with MERN stack and PHP
 - 🛠 Currently working on Browser Extensions, Automation tools, and low level CMS
