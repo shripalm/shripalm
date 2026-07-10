@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/shripal-mehta-software-design-engineer/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white&color=black" alt="Shripal Mehta LinkedIn" />
     </a>
-     <a href="https://www.instagram.com/shripalm.22/" target="_blank">
+     <a href="https://www.instagram.com/meh.shripal/" target="_blank">
        <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Shripal Mehta Instagram" />
     </a>
 </p>
